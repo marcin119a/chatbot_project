@@ -51,3 +51,10 @@ Handoff
 ```
 uv run faq-agent-handoff
 ```
+
+### Uruchomienie testów
+
+Uruchom wszystkie testy
+```
+python -m pytest .
+```
